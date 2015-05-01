@@ -1,0 +1,67 @@
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\WpfApplication1\WpfApplication1\bin\Debug\kinect.toolbox.dll
+D:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Articles\How to Track Skeleton Joins using Kinect\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Projects\HCI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Projects\HCI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Projects\HCI\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Projects\HCI\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\MainWindow.baml
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\App.g.cs
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Atif\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\MainWindow.baml
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\App.g.cs
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\AS\Academic\Information Technology\3rd Year\6th Semester\Projects\HCI\Working\WpfApplication1\bin\Debug\WpfApplication1.pdb
